@@ -79,10 +79,10 @@ http://179.51.136.19:8000/play/a1h0/index.m3u8
 http://179.51.136.19:8000/play/a1im/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/TNT_Sports_logo.png",TNT Sports Premium
-http://179.51.136.19:8000/play/a16a/index.m3u8
+https://ujfc.envivotv.live/tntsports/tracks-v1a1/mono.m3u8?remote=190.7.19.202&token=fca0b65f64e5aab39dc24e9d940bac2a1aad76b5-dd14ee88d89258cb5ab961b56f94801b-1763344496-1763333696
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/ESPN_Logo.svg",ESPN Premium
-http://179.51.136.19:8000/play/a1ar/index.m3u8
+https://ozufk.envivotv.live/espnpremium/tracks-v1a1/mono.m3u8?remote=190.7.19.202&token=7bb2aa34704bc2f8fb0bd03b961dc39ea5ff51bd-39f50cca7e00ffa65c7c1af3d79bc1f2-1763344306-1763333506
 
 #EXTINF:-1 tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/DSports_logo.png",DSports
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
@@ -416,5 +416,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://i.imgur.com/Sn6DUXH.png" group-title="Deportes",141. Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?null=0
+
 
 
