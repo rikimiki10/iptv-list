@@ -163,7 +163,10 @@ http://181.119.85.222:8000/play/a022/index.m3u8
 http://200.60.124.19:29000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/National_Geographic_Channel_logo.svg",National Geographic
-http://38.183.182.166:8000/play/a0vd/index.m3u8
+http://172.93.102.112:8989/278852_.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.ar" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/National_Geographic_Wild_logo.png" group-title="Documentales",National Geographic Wild
+http://TU-LINK-AQUI/live/stream.m3u8
 
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Love_Nature_logo.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -416,6 +419,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://i.imgur.com/Sn6DUXH.png" group-title="Deportes",141. Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?null=0
+
 
 
 
