@@ -7,7 +7,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 http://fortv.cc:8080/90820916/64752029/164870
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/El_Trece_logo_2018.png",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/El_Trece_logo_2018.png",El Trece Internacional
 http://179.51.136.19:8000/play/a1bn/index.m3u8
@@ -22,19 +22,19 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://fortv.cc:8080/90820916/64752029/164869
 
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TV_Publica_logo_2021.svg",TV Pública
-https://tvlibree.com/html/fl/?get=Q2FuYWw3
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
 #EXTINF:-1 tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/America_TV_Logo_2017.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cronica_TV_logo.png",Crónica TV
-http://fortv.cc:8080/90820916/64752029/164875
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763391958/ei/duUaae_SNcv6-LAPgvbK8QE/ip/190.7.19.202/id/avly0uwZzOE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QvFPFwYt9cOrmKE4EPVGqNH8H2KJmypzYzA5somMO5vBtYlGdk-Ru08ErlXnLx4qOUVxkFf1IN/spc/6b0G_C0ngCv2JCooMn5dMK8gYOCdCSwAvFYWgQq7CYezJ0jx4AWH2V_u3dbn_EBjEEI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCk5yLwy964iPNXah97x5tW8fZV5n9ost1jAQcRayK9ACIAQBH0NsH0H4LeMxFGA8gDMnz_3DVX3Pb-aU53Q4eRp6/file/index.m3u8
 
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C5N_logo_2017.png",C5N
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763391187/ei/c-IaaYOpMNnDobIPspy5GQ/ip/190.7.19.202/id/Uo-ziJhrTvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maudio/1/bui/AdEuB5QZwX_Ef7ov4oFsUzLZWkrq6SjE-WT-bssQ606vIs96echOhEYH7ROXYAWUW55Ak2xqWgH_2Yiy/spc/6b0G_Es0EzSz-aFA2ovC4oeSWM266nfpp_RE8Bv3_lye2XCxknoZ-HIuyaqpeN17tUZzoyEXn4A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbsAf77qOdF_wAL1qmF8pqNkGUGk1DZ5HzZwwnLagjy4CIQDYQAjNFLsENRuHfdPvmnAFB5W-4T3eONavUmpYySaviw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TN_argentina_logo.png",TN
-https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/A24_logo.png",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
@@ -324,6 +324,9 @@ http://181.119.85.222:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Cartoonito_logo.png",Cartoonito
 http://179.51.136.19:8000/play/a0u9/index.m3u8
 
+#EXTINF:-1 tvg-id="PakaPaka.ar" tvg-name="Paka Paka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Paka_Paka_logo.png" group-title="Infantiles",Paka Paka
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Disney_Channel_2014.png",Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 
@@ -419,6 +422,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://i.imgur.com/Sn6DUXH.png" group-title="Deportes",141. Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?null=0
+
 
 
 
