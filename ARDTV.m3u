@@ -31,7 +31,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://fortv.cc:8080/90820916/64752029/164875
 
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C5N_logo_2017.png",C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763391187/ei/c-IaaYOpMNnDobIPspy5GQ/ip/190.7.19.202/id/Uo-ziJhrTvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maudio/1/bui/AdEuB5QZwX_Ef7ov4oFsUzLZWkrq6SjE-WT-bssQ606vIs96echOhEYH7ROXYAWUW55Ak2xqWgH_2Yiy/spc/6b0G_Es0EzSz-aFA2ovC4oeSWM266nfpp_RE8Bv3_lye2XCxknoZ-HIuyaqpeN17tUZzoyEXn4A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbsAf77qOdF_wAL1qmF8pqNkGUGk1DZ5HzZwwnLagjy4CIQDYQAjNFLsENRuHfdPvmnAFB5W-4T3eONavUmpYySaviw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TN_argentina_logo.png",TN
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
@@ -419,6 +419,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://i.imgur.com/Sn6DUXH.png" group-title="Deportes",141. Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?null=0
+
 
 
 
